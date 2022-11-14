@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: 0.0.2
+_src_path: gh:tnarik/copier-python
+ci_use_check: true
+ci_use_circleci: true
+ci_use_gitlab: false
+project_name: gabe
+scm_user_email: tnarik@lecafeautomatique.co.uk
+scm_user_name: tnarik
+use_notebooks: false
